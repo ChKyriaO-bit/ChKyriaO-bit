@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Analyzing Grammys Website Performance(Excel) </b>
-  - [Praciting DS & Algos in Python](README.md)
+  - [Praciting DS & Algos in Python]([README.md](https://github.com/ChKyriaO-bit/Analyzing_Grammy-s_Website_Performance_Excel/blob/main/README.md))
 - <b>Anime Regression Analysis(R) </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>NYC Taxi Tableau Dashboard </b>
