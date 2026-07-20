@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Youtube Trending Video Analysis(Excel) </b>
+- <b>Analyzing Grammys Website Performance(Excel) </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Anime Regression Analysis(R) </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>NYC Taxi Tableau Dashboard </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Intel Sustainabilty Dashboard </b>
+- <b>Intel Sustainabilty Dashboard(Tableau) </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Olympic Google Trends Analysis </b>
+- <b>Olympic Google Trends Analysis(Excel) </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> Certifications <h2>
